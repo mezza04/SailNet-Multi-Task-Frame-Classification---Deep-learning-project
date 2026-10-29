@@ -1,4 +1,4 @@
-# ⛵ SailNet: Multi-Task Frame Classification
+# SailNet: Multi-Task Frame Classification
 
 **Frame-level classification of point of sail, tack and boat type from sailing video.**
 
@@ -51,7 +51,7 @@ The dataset was built from **95 on-water training sessions** (8,775 frames) usin
 - one label triple (point of sail, tack, boat type) per video;
 - **session-level** stratified train / validation / test split (65 / 20 / 15) so that near-identical neighbouring frames never leak between partitions.
 
-### ⚠️ Data is not included
+### Data is not included
 
 **The dataset (raw videos and extracted frames) is not published in this repository.** The footage shows youth sailing training sessions in which minors are clearly identifiable, so it cannot be shared for privacy reasons. The labelling notebook documents the exact pipeline and the expected input format, so the dataset can be rebuilt from your own footage.
 
