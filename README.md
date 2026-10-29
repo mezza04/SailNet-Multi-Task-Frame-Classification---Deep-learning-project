@@ -60,10 +60,8 @@ The dataset was built from **95 on-water training sessions** (8,775 frames) usin
 ```
 .
 ├── README.md
-├── report/
-│   └── SailNet.pdf          # Full paper (methodology, experiments, discussion)
-├── presentation/
-│   └── SailNet_Presentation.pptx   # Project slides
+├── SailNet.pdf          # Report (methodology, experiments, discussion)
+├── SailNet_Presentation.pptx   # Project slides
 └── notebooks/
     ├── Sailing_Labeling.ipynb      # Video → frames → labelled manifests (train/val/test)
     └── Sailing_Training.ipynb      # Model definition, training and evaluation
