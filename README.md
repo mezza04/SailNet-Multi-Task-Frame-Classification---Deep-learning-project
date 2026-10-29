@@ -61,7 +61,7 @@ The dataset was built from **95 on-water training sessions** (8,775 frames) usin
 .
 ├── README.md
 ├── report/
-│   └── SailNet_Report.pdf          # Full paper (methodology, experiments, discussion)
+│   └── SailNet.pdf          # Full paper (methodology, experiments, discussion)
 ├── presentation/
 │   └── SailNet_Presentation.pptx   # Project slides
 └── notebooks/
